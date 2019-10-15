@@ -1,0 +1,19 @@
+{
+  "name": "brenk-construction-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server --browser=firefox"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cjroberts2013/brenk-construction-website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cjroberts2013/brenk-construction-website/issues"
+  },
+  "homepage": "https://github.com/cjroberts2013/brenk-construction-website#readme"
+}
