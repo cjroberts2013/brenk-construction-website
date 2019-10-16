@@ -722,6 +722,10 @@ body {
   .popup__right {
     padding: 0 1.5rem;
   }
+
+  #popup__text--3 {
+    font-size: 0.8rem;
+  }
 }
 
 .popup-3 {
