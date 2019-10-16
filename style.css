@@ -708,6 +708,20 @@ body {
   .popup__img {
     width: 0;
   }
+
+  .popup__close:link {
+    font-size: 3rem;
+    top: -0.5rem;
+    right: 1rem;
+  }
+
+  .popup__left {
+    display: none;
+  }
+
+  .popup__right {
+    padding: 0 1.5rem;
+  }
 }
 
 .popup-3 {
