@@ -683,6 +683,27 @@ body {
 .popup__close:visited:hover {
   color: #0c87f2;
 }
+
+@media only screen and (max-width: 1500px) {
+  .popup__text {
+    margin-bottom: 4rem;
+    -webkit-column-count: 1;
+    column-count: 1;
+    -ms-hyphens: auto;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+  }
+  .popup__content {
+    width: 85%;
+  }
+  .popup__right {
+    padding: 1.5rem;
+  }
+  .popup__text {
+    margin-bottom: 0;
+  }
+}
+
 @media only screen and (max-width: 900px) {
   .popup__text {
     font-size: 1rem;
